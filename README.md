@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,Python,Java and Ruby**
 
-- 👨‍💻 All of my projects are available at [NoT Yet](NoT Yet)
+- 👨‍💻 All of my projects are available at (NoT Yet)
 
 - 📫 How to reach me **drkcorp01@gmail.com**
 
