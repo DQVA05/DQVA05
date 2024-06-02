@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Derek Corp</h1>
-<h3 align="center">A future computer science engineer from Cuba 🇨🇺</h3>
+<h3 align="center">A software engineer from Cuba 🇨🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dqva05&label=Profile%20views&color=0e75b6&style=flat" alt="dqva05" /> </p>
 
