@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/derekcorp" target="blank"><img src="https://img.shields.io/twitter/follow/derekcorp?logo=twitter&style=for-the-badge" alt="derekcorp" /></a> </p>
 
-- 🌱 I’m currently learning **C,Python,Java and Ruby**
+- 🌱 I’m currently learning **Java(Backend)**
 
 - 👨‍💻 All of my projects are available at (NoT Yet)
 
